@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  margin-top: 200px;
+}
+
+.sub-container {
+  max-width: 440px;
+}
+
+.counter-value {
+  color: #c20a72;
+}
